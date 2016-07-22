@@ -6,8 +6,8 @@ A minimal theme based on https://github.com/equinusocio/material-theme.
 
 ### OS X
 
-1. Navigate to the LiteIDE.app (generally in Applications).
-1. Right-click: Show package contents.
+1. Navigate to the LiteIDE.app.
+1. Right-click -> Show package contents.
 1. Copy **material.xml** to the **LiteIDE.app/Contents/Resources/liteeditor/color/** folder.
 1. Copy **material.qss** to the **LiteIDE.app/Contents/Resources/liteapp/qss/** folder.
 1. Open LiteIDE.

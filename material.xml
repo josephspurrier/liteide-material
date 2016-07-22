@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="material">
   <!--
-  Joseph Spurrier - https://github.com/josephspurrier
+  Joseph Spurrier - https://github.com/josephspurrier/liteide-material
   Modeled after: https://github.com/equinusocio/material-theme
   -->
   <style name="Text" foreground="#eeffff" background="#263238"/>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="material">
+  <!--
+  Joseph Spurrier - https://github.com/josephspurrier
+  Modeled after: https://github.com/equinusocio/material-theme
+  -->
+  <style name="Text" foreground="#eeffff" background="#263238"/>
+  <style name="Extra" foreground="#546E7A" background="#263238"/> 
+  <style name="Selection" background="#314549"/>
+  <style name="CurrentLine" background="#263238"/>
+  <style name="IndentLine" foreground="#263238"/>
+  <style name="VisualWhitespace" foreground="#263238"/>
+  <style name="Keyword" foreground="#c792ea" bold="false"/>
+  <style name="DataType" foreground="#FFCB6B" bold="false" /> 
+  <style name="Decimal" foreground="#F77669" bold="false"/>
+  <style name="BaseN" foreground="#F77669" bold="false"/>
+  <style name="Float" foreground="#F77669" bold="false"/>
+  <style name="Char" foreground="#C3E88D"/>
+  <style name="String" foreground="#C3E88D"/>
+  <style name="Comment" foreground="#546E7A" italic="true"/>
+  <style name="Alert" foreground="yellow"/>
+  <style name="Error" foreground="red"/>
+  <style name="Function" foreground="#82AAFF"/>
+  <style name="RegionMarker" foreground="#c792ea"/>
+  <style name="Symbol" foreground="#C3E88D" bold="true"/> 
+  <style name="BuiltinFunc" foreground="#89DDFF" bold="false"/>
+  <style name="Predeclared" foreground="#F77669" bold="false"/>
+  <style name="FuncDecl" foreground="#82AAFF"/>
+  <style name="Placeholder" foreground="#FFD800"/>
+  <style name="ToDo" foreground="#ffcb6b" background="#263238" bold="true"/>
+</style-scheme>

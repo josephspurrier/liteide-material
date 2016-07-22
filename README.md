@@ -13,7 +13,7 @@ A minimal theme based on https://github.com/equinusocio/material-theme.
 1. Open LiteIDE.
 6. Click **LiteIDE** -> **Preferences...**.
 1. On the **LiteApp** item -> **Generic** tab, change the **Theme** to: material.qss.
-1. On the **LiteEditor** itme -> **Font & Colors** tab, change the **File** under **Editor Color Scheme** to: material.xml.
+1. On the **LiteEditor** item -> **Font & Colors** tab, change the **File** under **Editor Color Scheme** to: material.xml.
 1. Click OK.
 
 ### Windows
@@ -23,5 +23,5 @@ A minimal theme based on https://github.com/equinusocio/material-theme.
 1. Open LiteIDE.
 1. Click **View** -> **Options**.
 1. On the **LiteApp** item -> **Generic** tab, change the **Theme** to: material.qss.
-1. On the **LiteEditor** itme -> **Font & Colors** tab, change the **File** under **Editor Color Scheme** to: material.xml.
+1. On the **LiteEditor** item -> **Font & Colors** tab, change the **File** under **Editor Color Scheme** to: material.xml.
 1. Click OK.

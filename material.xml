@@ -14,8 +14,8 @@
   <style name="Selection" background="#314549"/>
    <!-- Current line where the cursor is -->
   <style name="CurrentLine" background="#263238"/>
-   <!-- Space when code is indented -->
-  <style name="IndentLine" foreground="#263238"/>
+   <!-- 80 pixel margins -->
+  <style name="IndentLine" foreground="#80CBC4"/>
    <!-- Space after code -->
   <style name="VisualWhitespace" foreground="#263238"/>
    <!-- Keywords: package, import, func, return, if, type, interface -->
